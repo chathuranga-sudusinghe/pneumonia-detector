@@ -98,7 +98,7 @@ def main():
     with st.sidebar:
         st.header("ℹ️ About")
         st.write("""
-        This application uses a deep learning model to detect pneumonia from chest X-ray images.
+        This application uses a deep learning model to detect bacterial and viral pneumonia from chest X-ray images.
         
         **How to use:**
         1. Upload a chest X-ray image
